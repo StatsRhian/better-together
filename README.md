@@ -1,2 +1,3 @@
-# better-together
-Talk: Better together Lessons from RAP Drop-ins
+# Better togethter
+
+Quarto revealjs slides for HACA 2025 presentation on RAP drop-ins
