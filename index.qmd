@@ -17,12 +17,12 @@ footer: "Learn more about [The Strategy Unit](https://www.strategyunitwm.nhs.uk/
 
 ::: {.column width="50%"}
 - RAP: [Reproducible Analytical Pipelines](https://nhsdigital.github.io/rap-community-of-practice/)
-- 1 hour long online sessions held every two weeks
-- Facilitated by the Strategy Unit
+- One hour [online](https://www.smartsurvey.co.uk/s/XPUHSJ) every other Wednesday 10am
+- Facilitated by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/)
 :::
 
 ::: {.column width="40%"}
-![](img/ratatouille.jpg){fig-alt="A still from the film Ratatouille, showing a cute rat in mid-air" fig-align="right"}
+![](img/team.svg){fig-alt="Cartoon of a woman at a laptop, man is sat beside." fig-align="right"}
 :::
 
 ::::
@@ -47,12 +47,6 @@ footer: "Learn more about [The Strategy Unit](https://www.strategyunitwm.nhs.uk/
 
 :::
 
-## 
-
-We are not the experts.
-
-It's about facilitation not knowledge transfer.
-
 ## Common themes
 
 - Lots of brilliant individual work happening across the NHS
@@ -69,7 +63,7 @@ Can we solve these problems once, for the community?
 
 ::: {.column width="50%"}
 
-![](img/sharing-is-caring.jpg){fig-alt="A picture of Spongebob Squarepoints with his hands outspread, a rainbow between them. White text across the image reads 'Sharing is caring'"}
+![](img/support.svg){fig-alt="A cartoon of two people holding a screen. The screen has a heart."}
 
 :::
 
@@ -84,26 +78,42 @@ Can we solve these problems once, for the community?
 
 ::::
 
-## The RAP Code Review Buddies Network
+## RAP Code Review Buddies Network
 
-![](img/nerds-together-strong.png){fig-alt="A still from the film Rise of the Planet of the Apes, showing a chimpanzee saying 'Apes together strong'. The word 'Apes' is crossed out a replaced with 'Nerds'."}
+![](img/pair.svg){fig-alt="A cartoon of two people sat at a screen together." fig-align="center"}
 
-
-## What is the RAP Code Review Buddies Network?
-
-Every 3 months, you will be randomly paired up with someone else in the network. 
-
-As a pair, you will arrange to meet up online and talk through some code you have written. 
-
-You can then ask each other questions about the code and offer constructive comments.
+:::{.notes}
+- Every 3 months, you will be randomly paired up with someone else in the network. 
+- As a pair, you will arrange to meet up online and talk through some code you have written. 
+- You can then ask each other questions about the code and offer constructive comments.
+:::
 
 ## Is the network for me?
 
-We're suggesting a more relaxed approach to code review - a "code walkthrough". Guidance will be provided.
+:::: {.columns}
 
-If you have written **any code in the past three months** for your role, in any language (such as SQL, R, or Python), then you have enough coding knowledge! 
+::: {.column width="50%"}
 
-People at all stages of their coding and RAP journey are very welcome.
+- Written any code for your job in the last 3 months?
+
+- Any language
+
+- All stages of RAP welcome
+
+- No code review experience needed
+
+- [Guidance is provided](https://github.com/The-Strategy-Unit/RAP_Drop_In/wiki/Code-Review-Buddies-Network#suggested-code-walkthrough-guidelines)
+
+:::
+
+::: {.column width="50%"}
+
+![](img/proud.svg){fig-alt="A cartoon person standing proudly next to a screen"}
+
+:::
+
+::::
+
 
 ## Sounds awesome, how do I sign up?
 
@@ -112,9 +122,10 @@ People at all stages of their coding and RAP journey are very welcome.
 
 ::: {.column width="50%"}
 
-- Scan the QR code on the right to register for the RAP Code Review Buddies Network
-- Further details and guidance on our [Wiki on GitHub](https://github.com/The-Strategy-Unit/RAP_Drop_In/wiki/Code-Review-Buddies-Network)
-- I'm also looking for co-organisers - please get in touch if you're interested
+- RAP drop-in [sign up](https://www.smartsurvey.co.uk/s/XPUHSJ)
+- RAP Code Review Buddies Network [sign up](https://forms.microsoft.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO40jl8LGcQwpOmLEbW7NDZk9UMFAwNFNTUlFGTzJJOUk4RVFJUEk1SjQ5Ny4u)
+- Guidance on our [Wiki on GitHub](https://github.com/The-Strategy-Unit/RAP_Drop_In/wiki/Code-Review-Buddies-Network)
+- Get involved 😊
 
 :::
 
